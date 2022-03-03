@@ -39,6 +39,7 @@ body {
   line-height: 1.7;
   color: var(--color-white);
   background: var(--color-bg);
+  /* background: #000; */
   background-image: url("./assets/xv.png");
 }
 
