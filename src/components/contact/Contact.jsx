@@ -43,7 +43,7 @@ function Contact() {
             <MdOutlineMail className="contact__icon" />
             <h4>Email</h4>
             <h5>professor@money.heist</h5>
-            <a href="mailto:professor@money.heist" target="_blank">
+            <a href="mailto:professor@money.heist" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
@@ -52,7 +52,7 @@ function Contact() {
             <RiMessage3Line className="contact__icon" />
             <h4>Messanger</h4>
             <h5>Alvaro Morte</h5>
-            <a href="https://" target="_blank">
+            <a href="https://" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
@@ -63,7 +63,7 @@ function Contact() {
             <h5>+01-9638527410</h5>
             <a
               href="https://api.whatsapp.com/send?phone+019638527410"
-              target="_blank"
+              target="_blank" rel="noreferrer"
             >
               Send a message
             </a>

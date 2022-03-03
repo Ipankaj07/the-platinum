@@ -19,26 +19,31 @@ function About() {
             <article className="about__card">
               <FaAward className="about__card-icon" />
               <h5>Experience</h5>
-              <small>10+ Years Working </small>
+              <small>
+                I planned and succeeded in the biggest robbery in human history.{" "}
+              </small>
             </article>
 
             <article className="about__card">
               <FaUserSecret className="about__card-icon" />
               <h5>History</h5>
-              <small>300+ Successfull Worldwide </small>
+              <small>
+                At the age of 19, he stopped renewing his identity card, so that
+                he would not be registered{" "}
+              </small>
             </article>
 
             <article className="about__card">
               <SiNounproject className="about__card-icon" />
               <h5>Projects</h5>
-              <small>Royal Mint , Bank of Spain </small>
+              <small>
+                Rob the Royal Mint of Spain , Rob the Bank of Spain (all
+                succeeded){" "}
+              </small>
             </article>
           </div>
           <p>
-            The Professor (Sergio Marquina) is a fictional character in the
-            Netflix series Money Heist, portrayed by Álvaro Morte. He is the
-            mastermind of the heist who assembled the group, as well as Berlin's
-            brother.
+          I'm the Professor (Sergio Marquina) which is a fictional character in the Netflix series Money Heist, portrayed by Lavro Morte. And in the series I am the mastermind who assembled the group, as well as my brother Berlin.
           </p>
 
           <a href="#contact" className="btn btn-primary">

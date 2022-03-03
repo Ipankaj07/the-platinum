@@ -36,6 +36,7 @@
 }
 
 .experience__details-icon {
+  width: 2rem;
   margin-top: 7px;
   color: var(--color-primary);
 }

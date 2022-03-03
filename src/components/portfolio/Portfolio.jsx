@@ -11,7 +11,7 @@ const data = [
   {
     id: 1,
     title:
-      "Money Heist’s Professor, Sergio (Alvaro Morte) has a habit of creating origami birds while negotiating with any officer. Many fans tried to decode this action and they have some interesting theories.",
+      "Paper origami birds.",
     image: P1,
     github: "https://github.com",
     demo: "https://github.com",
@@ -19,7 +19,7 @@ const data = [
   {
     id: 2,
     title:
-      "Money Heist’s Professor, Sergio (Alvaro Morte) has a habit of creating origami birds while negotiating with any officer. Many fans tried to decode this action and they have some interesting theories.",
+      "Successfully robbed the Bank of Spain.",
     image: P2,
     github: "https://github.com",
     demo: "https://github.com",
@@ -27,7 +27,7 @@ const data = [
   {
     id: 3,
     title:
-      "Money Heist’s Professor, Sergio (Alvaro Morte) has a habit of creating origami birds while negotiating with any officer. Many fans tried to decode this action and they have some interesting theories.",
+      "Exposing of Spanish State Secrets.",
     image: P3,
     github: "https://github.com",
     demo: "https://github.com",
@@ -35,7 +35,7 @@ const data = [
   {
     id: 4,
     title:
-      "Money Heist’s Professor, Sergio (Alvaro Morte) has a habit of creating origami birds while negotiating with any officer. Many fans tried to decode this action and they have some interesting theories.",
+      "I successfully robbed the Royal Mint of Spain, a robbery my father had planned.",
     image: P4,
     github: "https://github.com",
     demo: "https://github.com",
@@ -43,7 +43,7 @@ const data = [
   {
     id: 5,
     title:
-      "Money Heist’s Professor, Sergio (Alvaro Morte) has a habit of creating origami birds while negotiating with any officer. Many fans tried to decode this action and they have some interesting theories.",
+      "I would rarely be seen without a formal suit, overcoat and tie. But I would change occasionally to avoid being traced by the police.",
     image: P5,
     github: "https://github.com",
     demo: "https://github.com",
@@ -51,7 +51,7 @@ const data = [
   {
     id: 6,
     title:
-      "Money Heist’s Professor, Sergio (Alvaro Morte) has a habit of creating origami birds while negotiating with any officer. Many fans tried to decode this action and they have some interesting theories.",
+      "Oversaw the Bank of Spain Heist, which had been initially planned by Berlin.",
     image: P6,
     github: "https://github.com",
     demo: "https://github.com",
@@ -72,10 +72,10 @@ function Portfolio() {
               </div>
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
-                <a href={github} className="btn" target="_blank">
-                  Github
+                <a href={github} className="btn" target="_blank" rel="noreferrer">
+                  Dummy Button
                 </a>
-                <a href={demo} className="btn btn-primary" target="_blank">
+                <a href={demo} className="btn btn-primary" target="_blank" rel="noreferrer">
                   Live Demo
                 </a>
               </div>
@@ -88,27 +88,3 @@ function Portfolio() {
 }
 
 export default Portfolio;
-
-/* 
-
- <article className="porfolio__item">
-          <div className="portfolio__item-img">
-            <img src={P1} alt="p-1" />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn" target="_blank">
-              Github
-            </a>
-            <a
-              href="https://github.com"
-              className="btn btn-primary"
-              target="_blank"
-            >
-              Live Demo
-            </a>
-          </div>
-        </article>
-
-
-*/

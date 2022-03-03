@@ -50,6 +50,7 @@
   padding: 2rem;
   text-align: center;
   transition: var(--transition);
+  width: 13rem;
 }
 
 .about__card:hover {

@@ -10,53 +10,37 @@ function Experience() {
 
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3>Royal Mint of Spain</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>HTML</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Organiser</h4>
+                <small className="text-light">The Professor</small>
               </div>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>Second-in command</h4>
+                <small className="text-light">Berlin</small>
               </div>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>JavaScript</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Goal</h4>
+                <small className="text-light">To print their own untraceable banknotes (approx. €2.4 billion)</small>
               </div>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Bootstrap</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Tailwind</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>React</h4>
-                <small className="text-light">Experienced</small>
+              <h4>Outcome</h4>
+                <small className="text-light">Escaped with €984 million</small>
               </div>
             </article>
           </div>
@@ -65,53 +49,37 @@ function Experience() {
         {/* ---- */}
 
         <div className="experience__backend">
-          <h3>Backend Development</h3>
+          <h3>The Bank of Spain</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>MongoDb</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>Organiser</h4>
+                <small className="text-light">The Professor</small>
               </div>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>MongoDb</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>Second-in command</h4>
+                <small className="text-light">Palermo</small>
               </div>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Node</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>Goal</h4>
+                <small className="text-light">To steal all the gold from Bank of Spain</small>
               </div>
             </article>
 
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>NPM</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
-
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>MySQL</h4>
-                <small className="text-light">Nothing</small>
-              </div>
-            </article>
-
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <div>
-                <h4>Hb-db</h4>
-                <small className="text-light">Nothing</small>
+              <h4>Outcome</h4>
+                <small className="text-light">Escaped with 90 tons of gold (approx. €4.355 billion)</small>
               </div>
             </article>
           </div>

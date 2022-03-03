@@ -17,9 +17,9 @@ function Footer() {
 </ul>
 
 <div className="footer__social">
-  <a href="https://instagram.com" target="_blank"> <BsInstagram/> </a>
-  <a href="https://github.com" target="_blank"> <BsGithub/>  </a>
-  <a href="https://twitter.com" target="_blank"> <BsTwitter/>  </a>
+  <a href="https://instagram.com" target="_blank" rel="noreferrer"> <BsInstagram/> </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"> <BsGithub/>  </a>
+  <a href="https://twitter.com" target="_blank" rel="noreferrer"> <BsTwitter/>  </a>
 </div>
 
 <div className="footer__copyright">
